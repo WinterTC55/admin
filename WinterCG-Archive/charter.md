@@ -1,3 +1,5 @@
+This document is an archive of the WIP charter when Web Interoperability work was part of W3C, before the transition to Ecma. It holds no authority now, it remains for posterity. 
+
 # Web-interoperable Runtimes Community Group
 
 This Charter is work in progress. To submit feedback, please use https://github.com/wintercg/admin Issues to discuss and provide feedback.
