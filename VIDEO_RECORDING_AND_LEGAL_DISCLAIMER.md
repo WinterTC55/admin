@@ -7,7 +7,7 @@ encouraged to review and modify minutes for accuracy before the following meetin
 can be made at any time; it is best to do so while the meeting is still fresh in the mind of the participants.)
 
 Meeting participation is restricted to Delegates of Ecma Members and Invited Experts approved by the Ecma Secretariat.
-Meeting minutes are available to anyone in tne public by navigating to the [`meetings`][minutes]directory of the
+Meeting minutes are available to anyone in the public by navigating to the [`meetings`][minutes]directory of the
 WinterTC55 admin repository on GitHub.
 
 [minutes]: https://github.com/WinterTC55/admin/tree/main/meetings

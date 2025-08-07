@@ -7,7 +7,7 @@ Learn more at https://wintertc.org/.
 
 ## Participating
 
-If you are a representative of company or an individual building a web-interoperable runtime, or are interested in
+If you are a representative of a company or an individual building a web-interoperable runtime, or are interested in
 collaborating on the work that we do, here is how you can help.
 
 - You can open an issue or a PR to any of the existing repos in this GitHub organization.
