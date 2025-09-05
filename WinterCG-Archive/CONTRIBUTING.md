@@ -1,3 +1,5 @@
+This is an archive of the WinterCG Contributing guidelines.
+
 # Web-interoperable Runtimes Community Group
 
 This repository is being used for work in the W3C Web-interoperable Runtimes
