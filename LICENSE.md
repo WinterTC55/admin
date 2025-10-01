@@ -1,8 +1,17 @@
-All Reports in this Repository are licensed by Contributors under the
-[W3C Software and Document License](http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document).
+TC55 (aka WinterTC) is an Ecma International Royalty-Free Technical Committee.
 
-Contributions to Specifications are made under the
-[W3C CLA](https://www.w3.org/community/about/agreements/cla/).
+All contributions in online or in-person meetings, via GitHub, or in any other forum—are covered by the Ecma
+International [Code of Conduct in Patent Matters][patent] as well as the [Royalty-Free Patent Policy Extension][rfp].
+Additionally,
 
-Contributions to Test Suites are made under the
-[W3C 3-clause BSD License](https://www.w3.org/Consortium/Legal/2008/03-bsd-license.html)
+- Prose text is licensed under the [Alternative copyright notice of the Ecma text copyright policy][altcopy].
+- Source code is licensed under Ecma's MIT-style [Ecma International Policy on Submission, Inclusion and Licensing of
+  Software][mit].
+- Contributions are only accepted from delegates of Ecma members or Invited Experts who have signed the [Invited Expert
+  form][ieform] and been invited to contribute by the Ecma Secretary General.
+
+[patent]: https://ecma-international.org/policies/by-ipr/code-of-conduct-in-patent-matters/
+[rfp]: https://ecma-international.org/policies/by-ipr/royalty-free-patent-policy-extension-option/
+[altcopy]: https://ecma-international.org/policies/by-ipr/ecma-text-copyright-policy/#alternative-copyright-notice
+[mit]: https://ecma-international.org/policies/by-ipr/ecma-international-policy-on-submission-inclusion-and-licensing-of-software/
+[ieform]: https://ecma-international.org/invited-expert-form/
