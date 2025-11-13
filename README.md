@@ -14,7 +14,7 @@ committee.
   - Public calendar: https://calendar.google.com/calendar/u/1?cid=YWNhODVkMTA2MjNhNDEwYzlmYWNmMjE3NmY4MzBmZWY4ZGZiNzU3ZDVkZWZiYmUzOTQ0NzEwNWYzZjk5OGE4MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
   - The meetings are private to WinterTC delegates and invited experts. If you
     are one, you can find the link
-    [here](https://github.com/wintercg/members-only#meeting).
+    [here](https://github.com/WinterTC55/?view_as=member#meeting-access).
 
 You can find the technical committee page on the Ecma site here:
 https://ecma-international.org/technical-committees/tc55/
